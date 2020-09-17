@@ -22,6 +22,13 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=shin1127&color=green) -->
 
 
-![Dy's github stats](https://github-readme-stats.vercel.app/api?username=shin1127)
+<!-- ![Dy's github stats](https://github-readme-stats.vercel.app/api?username=shin1127)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shin1127)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shin1127) -->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=shin1127&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shin1127" />
+</a>
