@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there!!
 
 <!--
 **shin1127/shin1127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
