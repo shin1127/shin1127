@@ -9,12 +9,19 @@
 - Writing tech blog.
 - Taking a memo.
 
-#### I'm interested in
+#### Passionate about
 - Web Development and related feature.
+- Java, JavaScript(Node.js), Clojure.
+- Linux(LPIC)
+
+#### I'm interested in
+
+- Python, etc
+- Machine Learning
 - Statistics
-- Java, JavaScript(Node.js), Python, etc.
-- Linux
+- Virtualization Technology
 - AWS
+
 
 
 
