@@ -1,5 +1,25 @@
 ### Hi there!!
 
+#### About me
+- Software engineer.
+- Entertainer as Magician.
+- Bachelor of Materials Engineering.
+
+#### Love
+- Writing tech blog.
+- Taking a memo.
+
+#### I'm interested in
+- Web Development and related feature.
+- Statistics
+- Java, JavaScript(Node.js), Python, etc.
+- Linux
+- AWS
+
+
+
+
+
 <!--
 **shin1127/shin1127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
